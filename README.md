@@ -1,2 +1,2 @@
-# Spotify-clone
- responsive clone of the Spotify homepage with a built-in music player, using HTML, CSS.
+Responsive clone of the Spotify homepage with a built-in music player, using
+HTML, CSS.
